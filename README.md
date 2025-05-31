@@ -1,1 +1,1 @@
-The project It allows the creation, segmentation (slicing), and restoration of custom text archives. It is useful for processing and handling files with specific extensions from a directory, for purposes such as efficient storage, distributed processing, or customized archiving.
+The project allows the creation, segmentation (slicing), and restoration of custom text archives. It is useful for processing and handling files with specific extensions from a directory, for purposes such as efficient storage, distributed processing, or customized archiving.
